@@ -72,13 +72,9 @@ Your report should contain:
   - Course name and number  
   - Your name  
 
-- **Pre-lab Calculations**  
-
-- **Screenshots** of layout and results (including eye diagrams)  
-
-- **Summary Table** for each simulation:
-  | Fiber Length (km) | Received Power (dBm) | Q Factor | BER |
-  |-------------------|-----------------------|----------|-----|
-  
+- **Pre-lab Calculations**
+- <img width="956" height="1280" alt="image" src="https://github.com/user-attachments/assets/6fb0ba62-d39d-40cf-8ff6-ba2c3d5c1a3a" />
+- **Screenshots** of layout and results (including eye diagrams)
+- <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/b8e39ae1-4771-4940-855f-8fce058e0f95" />
 
 - **Written Summary** of observations and explanations of differences.  
